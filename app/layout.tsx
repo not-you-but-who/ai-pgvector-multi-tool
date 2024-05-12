@@ -13,12 +13,11 @@ const fontSans = FontSans({
   variable: '--font-sans'
 })
 
-const title = 'Morphic'
-const description =
-  'A fully open-source AI-powered answer engine with a generative UI.'
+const title = 'AI PGVector Multi Tool'
+const description = 'An AI-powered multi-tool using pgvector.'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://morphic.sh'),
+  metadataBase: new URL('https://heroku.com'),
   title,
   description,
   openGraph: {
